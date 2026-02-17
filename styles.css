@@ -8,14 +8,13 @@ body {
     overflow: hidden;
 }
 
-/* ESCENA */
 .scene {
     position: relative;
     width: 600px;
     height: 500px;
 }
 
-/* SOL */
+/* sol*/
 .sun {
     width: 120px;
     height: 120px;
@@ -27,7 +26,7 @@ body {
     z-index: 0;
 }
 
-/* MONTAÑAS */
+/* montañas */
 .mountain {
     position: absolute;
     bottom: 0;
@@ -71,8 +70,6 @@ body {
     top: 130px;
     right: 120px;
 }
-
-/* PERSONA */
 .person {
     position: absolute;
     bottom: 0;
@@ -81,8 +78,7 @@ body {
     width: 200px;
     z-index: 3;
 }
-
-/* CABELLO LARGO COBRIZO */
+/* cabello */
 .hair {
     width: 150px;
     height: 220px;
@@ -93,8 +89,7 @@ body {
     left: 25px;
     z-index: 1;
 }
-
-/* CABEZA */
+/* cabeza */
 .head {
     width: 120px;
     height: 140px;
@@ -105,8 +100,7 @@ body {
     left: 40px;
     z-index: 2;
 }
-
-/* OJOS */
+/* ojo */
 .eye {
     width: 12px;
     height: 12px;
@@ -115,11 +109,9 @@ body {
     position: absolute;
     top: 50px;
 }
-
 .left { left: 30px; }
 .right { right: 30px; }
-
-/* BOCA */
+/* boa */
 .mouth {
     width: 30px;
     height: 10px;
@@ -129,8 +121,7 @@ body {
     bottom: 40px;
     left: 45px;
 }
-
-/* CUELLO */
+/* Cuello */
 .neck {
     width: 40px;
     height: 40px;
@@ -139,8 +130,7 @@ body {
     top: 30px;
     left: 80px;
 }
-
-/* CUERPO NEGRO */
+/* cuerpo */
 .body {
     width: 160px;
     height: 120px;
